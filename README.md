@@ -6,3 +6,5 @@ A simple, single panel marble machine. Manufactured with 3D printing and Laser c
 ### Dimensions
 Marble size of 9/16"
 Board size of 16"x16"
+
+Profile of the rail can be found in `Sketches/RailProfile.dxf`
